@@ -1,0 +1,5 @@
+path: F:\Python_Solutions\Жигалов\people_detector_yolo\data\frames         # корневая папка с датасетом
+train: F:\Python_Solutions\Жигалов\people_detector_yolo\data\train
+val: F:\Python_Solutions\Жигалов\people_detector_yolo\data\validate        # папка с валидационными изображениями
+nc: 1                   # число классов (например, 1 для "person")
+names: ['person']       # список названий классов
